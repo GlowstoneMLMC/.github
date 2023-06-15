@@ -1,4 +1,4 @@
 # Hi there 👋
 
-## Nodestellar
-Nodestellar is not even in development yet. (~ massblabla)
+## Glowstone Mod Loader for Minecraft
+nothing here
